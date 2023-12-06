@@ -1,0 +1,221 @@
+.foot {
+    background-color: snow;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: 3em;
+    font-size: 80%;
+    text-align: center;
+}
+
+.head {
+    background-color: #F7F7F8;
+    padding-top: 2em;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.title {
+    margin: auto;
+    padding-bottom: 0.5em;
+    max-width: 80%;
+    text-align: center;
+    font-size: 3.0rem;
+    font-weight: 500;
+}
+
+.journal {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5em;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.author-a {
+    color: Salmon;
+}
+
+.author {
+    display: inline-block;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 2em;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.post {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.media-img {
+    height: 80px;
+    padding: 1em;
+}
+
+.medias {
+    padding-top: 2em;
+    width: 60%;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+}
+
+.media {
+    flex: 1;
+}
+
+.media-a {
+    margin: 0 auto;
+}
+
+.media-txt {
+    color: Salmon;
+    font-size: 1.0rem;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.dataset {
+    border: 0.5px solid #DDD;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    /* margin: 0.3em; */
+}
+
+.Dt {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.nav-item {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0.;
+    padding-right: 0.;
+    margin: 0;
+    display: inline-block;
+}
+
+.nav-link {
+    padding-left: 0.;
+    padding-right: 0.;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: left;
+    color: Salmon;
+    text-decoration: none;
+    text-align: left;
+}
+
+.dataset-down-link {
+    padding-left: 0.;
+    padding-right: 0.;
+    padding-top: 0;
+    padding-bottom: 0;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    text-align: left;
+}
+
+.datasets-link {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.datasets-note {
+    flex: 1;
+    display: inline-block;
+    padding-left: 1.1em;
+    margin: auto;
+    height: auto;
+}
+
+.datasets-id {
+    flex: 1;
+    display: inline-block;
+    height: auto;
+    max-width: 2em;
+    margin: auto;
+    text-align: center;
+}
+
+.datasets-a,
+.datasets-img {
+    flex: 1;
+    display: inline-block;
+    max-width: 8em;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.datasets-img {
+    height: 80px;
+    padding: 1em;
+}
+
+.datasets-a {
+    border-left: 0.3px solid #DDD;
+    border-right: 0.3px solid #DDD;
+}
+
+.language-python,
+.language- {
+    padding: 0.5em 1em 0.5em 1em;
+    background-color: #F7F7F8;
+}
+
+.function-items {
+    padding-left: 0.5em;
+    background-color: #F7F7F8;
+}
+
+.function-item {
+    display: inline-block;
+    padding-left: 0.1em;
+    padding-right: 2em;
+}
+
+.function-h {
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding-bottom: 0.5em;
+}
+
+.function {
+    padding-top: 2em;
+    padding-bottom: 0em;
+}
+
+.pic_3 {
+    width: 100%;
+    height: auto;
+    margin: 2 auto;
+    display: flex;
+    display: -webkit-flex;
+}
+
+.pic_3-item {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+    list-style: none;
+}
+
+.pic_3-img {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    display: -webkit-flex;
+}
+.pic_3-txt{
+    font-size: large;
+}
